@@ -32,7 +32,9 @@ Prerequisites
 
 Course Set-up
 
-    For weeks 1 and 2 of this course, students are recommended to use two virtual machines. One virtual machine that has a standard installation of Ubuntu LTS 20.04 workstation, and another virtual machine that has a minimal installation of CentOS 8.x. Additional setup instructions can be found in the course github repository https://github.com/sandervanvugt/devopsinfourweeks
+    For weeks 1 and 2 of this course, students are recommended to use two virtual machines. One virtual machine that has a standard installation of Ubuntu LTS 20.04 workstation, and another virtual machine that has a minimal installation of CentOS 8.x. Additional setup instructions can be found in the course github repository 
+    https://github.com/sandervanvugt/devopsinfourweeks
+    
     For week 3 of this course, access to a Kubernetes cluster is required. Setup of Kubernetes is explained in week 2 of the course. To run a Kubernetes cluster based on Minikube, students will need to use Ubuntu LTS 20.04 workstation with at least 4GB of RAM
     For week 4 of this course, running a virtual machine with OpenShift is required. The OpenShift virtual machine needs a minimum of 9 GB of RAM. Setup instructions will be provided in week
 
@@ -42,8 +44,12 @@ Recommended Preparation
 
 Recommended Follow-up
 
-    Kubernetes: From Basics to Guru: https://learning.oreilly.com/playlists/330a1112-13ee-4e72-8b2a-6fd8766fddae/
-    OpenShift Fundamentals: https://learning.oreilly.com/videos/red-hat-openshift/9780135767436
+    Kubernetes: From Basics to Guru: 
+    https://learning.oreilly.com/playlists/330a1112-13ee-4e72-8b2a-6fd8766fddae/
+    
+    OpenShift Fundamentals: 
+    https://learning.oreilly.com/videos/red-hat-openshift/9780135767436
+    
 
 About your instructor
 
